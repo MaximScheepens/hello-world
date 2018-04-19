@@ -1,8 +1,8 @@
 # hello-world
 Hello World in 10 minutes on GitHub
 
-Maxim Scheepens is een senior technische Information Worker Consultant met meer dan 30 jaar relevante ervaring. Hij heeft de afgelopen jaren een specialisme opgebouwd in  Microsoft SharePoint architecturen en customer development  in vernieuwende high end en high availability omgevingen.
+Maxim Scheepens is a senior technical Information Worker Consultant with more than 30 years of relevant experience. In recent years he has built up a specialism in Microsoft SharePoint architectures and customer development in innovative high end and high availability environments.
 
-Maxim is een echte teamspeler, inspirator, coach, en wordt vaak van wege zijn ervaring en senioriteit gezien c.q. ervaren als de lead developer. Hij is een denker die vooral ook graag (veel) doet. Maxim werkt graag aan concrete oplossingen die voor de klant herkenbare meerwaarde hebben.
+Maxim is a real team player, inspirator, coach, and is often seen or experienced as the lead developer because of his experience and seniority. He is a thinker who especially likes to do (a lot). Maxim likes to work on concrete solutions that have recognizable added value for the customer.
 
-Kenmerkend is zijn commitment op het resultaat. Dit werkt vaak aanstekelijk op de mensen met wie hij samenwerkt.
+His commitment to the result is characteristic. This often works contagiously on the people with whom he collaborates.
